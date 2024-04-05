@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://cheatsheets.zip/widget/chmod.html</loc>
+    <loc>https://agentmero.github.io/ref-public/widget/chmod.html</loc>
     
     <lastmod>2024-04-05</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://cheatsheets.zip/ga_analytics_tops.json</loc>
+    <loc>https://agentmero.github.io/ref-public/ga_analytics_tops.json</loc>
     
     <lastmod>2024-04-05</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://cheatsheets.zip/zoom.html</loc>
+    <loc>https://agentmero.github.io/ref-public/zoom.html</loc>
     
     <lastmod>2022-11-23</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://cheatsheets.zip/youtube.html</loc>
+    <loc>https://agentmero.github.io/ref-public/youtube.html</loc>
     
     <lastmod>2022-11-23</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://cheatsheets.zip/sponsor/</loc>
+    <loc>https://agentmero.github.io/ref-public/sponsor/</loc>
     
     <lastmod>2021-12-11</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://cheatsheets.zip/notes/</loc>
+    <loc>https://agentmero.github.io/ref-public/notes/</loc>
     
     <lastmod>2021-09-02</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://cheatsheets.zip/privacy/</loc>
+    <loc>https://agentmero.github.io/ref-public/privacy/</loc>
     
     <lastmod>2020-03-27</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://cheatsheets.zip/about/</loc>
+    <loc>https://agentmero.github.io/ref-public/about/</loc>
     
     <lastmod>2020-03-27</lastmod>
     
@@ -75,7 +75,7 @@
   
 
   <url>
-    <loc>https://cheatsheets.zip/</loc>
+    <loc>https://agentmero.github.io/ref-public</loc>
     <lastmod>2024-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
